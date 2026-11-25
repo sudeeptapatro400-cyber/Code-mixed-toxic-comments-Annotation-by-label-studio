@@ -1,0 +1,1001 @@
+[
+{
+  "Sheet1": "1 ତୁ ମେ ବହୁତ ଭଲ କାମ କରିଛ।                              Non-Toxic   Odia",
+  "id": 2,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 8,
+  "created_at": "2026-11-22T04:23:53.124648Z",
+  "updated_at": "2026-11-22T04:23:53.124648Z",
+  "lead_time": 6.566
+},
+{
+  "Sheet1": "2 ଧନ୍ୟବାଦ, ତୁ ମ ସାହାଯ୍ୟ ଦରକାରୀ ଥିଲା।                   Non-Toxic   Odia",
+  "id": 3,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 9,
+  "created_at": "2026-11-22T04:24:01.039118Z",
+  "updated_at": "2026-11-22T04:24:01.039118Z",
+  "lead_time": 7.447
+},
+{
+  "Sheet1": "3 ଆଜିର ଭିଡିଓଟି ବହୁତ ଭଲ ଲାଗିଲା।                         Non-Toxic   Odia",
+  "id": 4,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 10,
+  "created_at": "2026-11-22T04:24:06.292760Z",
+  "updated_at": "2026-11-22T04:24:06.292760Z",
+  "lead_time": 4.842
+},
+{
+  "Sheet1": "4 ଦୟାକରି ଏହାକୁ ଆଉଥରେ ବୁ ଝାଇବେ କି?                      Non-Toxic   Odia",
+  "id": 5,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 11,
+  "created_at": "2026-11-22T04:25:09.697311Z",
+  "updated_at": "2026-11-22T04:25:09.697311Z",
+  "lead_time": 6.833
+},
+{
+  "Sheet1": "5 ତୁ ମ ମତାମତ ସହିତ ମୁଁ ସହମତ।                            Non-Toxic   Odia",
+  "id": 6,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 12,
+  "created_at": "2026-11-22T04:25:19.033095Z",
+  "updated_at": "2026-11-22T04:25:19.033095Z",
+  "lead_time": 8.91
+},
+{
+  "Sheet1": "6 ଏହି ଫଟୋଟି ସୁନ୍ଦର ହୋଇଛି।                              Non-Toxic   Odia",
+  "id": 7,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 13,
+  "created_at": "2026-11-22T04:25:25.070538Z",
+  "updated_at": "2026-11-22T04:25:25.070538Z",
+  "lead_time": 5.604
+},
+{
+  "Sheet1": "7 ଭଲ ଚେଷ୍ଟା, ଆଗକୁ ଆହୁରି ଭଲ କରିବ।                       Non-Toxic   Odia",
+  "id": 8,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 14,
+  "created_at": "2026-11-22T04:38:10.696490Z",
+  "updated_at": "2026-11-22T04:38:10.696490Z",
+  "lead_time": 765.116
+},
+{
+  "Sheet1": "8 ମୁଁ ତୁ ମ ମତକୁ ସମ୍ମାନ କରେ।                            Non-Toxic   Odia",
+  "id": 9,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 15,
+  "created_at": "2026-11-22T04:38:31.863219Z",
+  "updated_at": "2026-11-22T04:38:31.863219Z",
+  "lead_time": 20.388
+},
+{
+  "Sheet1": "9 ଏହି ସୂଚନାଟି ମୋତେ ବହୁତ ସାହାଯ୍ୟ କଲା।                   Non-Toxic   Odia",
+  "id": 10,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 16,
+  "created_at": "2026-11-22T05:24:25.435586Z",
+  "updated_at": "2026-11-22T05:24:25.435586Z",
+  "lead_time": 5.251
+},
+{
+  "Sheet1": "10 ତୁ ମର ପ୍ରସ୍ତୁତି ଭଲ ହୋଇଛି।                            Non-Toxic   Odia",
+  "id": 11,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 17,
+  "created_at": "2026-11-22T05:24:32.873347Z",
+  "updated_at": "2026-11-22T05:24:32.873347Z",
+  "lead_time": 6.729
+},
+{
+  "Sheet1": "11 ତୁ ମେ କିଛି ଜାଣିନାହଁ, ଚୁ ପ୍ ରୁ ହ।                     Toxic       Odia",
+  "id": 12,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 18,
+  "created_at": "2026-11-22T06:54:15.905507Z",
+  "updated_at": "2026-11-22T06:54:15.905507Z",
+  "lead_time": 16.183
+},
+{
+  "Sheet1": "12 ତୁ ମର କଥା ସବୁ ବେଳେ ଅର୍ଥହୀନ।                          Toxic       Odia",
+  "id": 13,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 19,
+  "created_at": "2026-11-22T06:54:46.141461Z",
+  "updated_at": "2026-11-22T06:54:46.141461Z",
+  "lead_time": 29.316
+},
+{
+  "Sheet1": "13 ତୁ ମେ ଏତେ ଅସଭ୍ୟ କାହିଁକି?                             Toxic       Odia",
+  "id": 14,
+  "annotator": 1,
+  "annotation_id": 20,
+  "created_at": "2026-11-22T06:55:00.479182Z",
+  "updated_at": "2026-11-22T06:55:00.479182Z",
+  "lead_time": 11.615
+},
+{
+  "Sheet1": "14 ତୁ ମ ପରି ଲୋକଙ୍କ ସହ କଥା ହେବା ବେକାର।                   Toxic       Odia",
+  "id": 15,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 21,
+  "created_at": "2026-11-22T06:55:11.779959Z",
+  "updated_at": "2026-11-22T06:55:11.779959Z",
+  "lead_time": 9.704
+},
+{
+  "Sheet1": "15 ତୁ ମେ ସବୁ ବେଳେ ଅନ୍ୟମାନଙ୍କୁ ହଇରାଣ କରୁ ଛ।              Toxic       Odia",
+  "id": 16,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 22,
+  "created_at": "2026-11-22T06:55:28.393663Z",
+  "updated_at": "2026-11-22T06:55:28.393663Z",
+  "lead_time": 15.886
+},
+{
+  "Sheet1": "16 ଏମିତି ମୂର୍ଖ କଥା କହିବା ବନ୍ଦ କର।                       Toxic       Odia",
+  "id": 17,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 23,
+  "created_at": "2026-11-22T06:55:41.820076Z",
+  "updated_at": "2026-11-22T06:55:41.820076Z",
+  "lead_time": 12.752
+},
+{
+  "Sheet1": "17 ତୁ ମର ବ୍ୟବହାର ବହୁତ ଖରାପ।                             Toxic       Odia",
+  "id": 18,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 24,
+  "created_at": "2026-11-22T06:55:55.619659Z",
+  "updated_at": "2026-11-22T06:55:55.619659Z",
+  "lead_time": 13.331
+},
+{
+  "Sheet1": "18 ତୁ ମେ ଏଠାରେ କିଛି କାମର ନୁ ହଁ।                         Toxic       Odia",
+  "id": 19,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 25,
+  "created_at": "2026-11-22T06:56:33.919839Z",
+  "updated_at": "2026-11-22T06:56:33.920839Z",
+  "lead_time": 37.5
+},
+{
+  "Sheet1": "19 ଅନ୍ୟମାନଙ୍କୁ ଅପମାନ କରିବା ବନ୍ଦ କର, ନହେଲେ ଚୁ ପ୍ ରୁ ହ।   Toxic       Odia",
+  "id": 20,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 26,
+  "created_at": "2026-11-22T06:56:48.138162Z",
+  "updated_at": "2026-11-22T06:56:48.138162Z",
+  "lead_time": 12.437
+},
+{
+  "Sheet1": "20 ତୁ ମେ ସବୁ ବେଳେ ନିର୍ବୋଧ ଭଳି ବ୍ୟବହାର କରୁ ଛ।            Toxic       Odia",
+  "id": 21,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 27,
+  "created_at": "2026-11-22T06:56:58.592932Z",
+  "updated_at": "2026-11-22T06:56:58.592932Z",
+  "lead_time": 9.576
+},
+{
+  "Sheet1": "21 Tume bahut bhala kama karicha.                       Non-Toxic   Romanized Odia",
+  "id": 22,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 28,
+  "created_at": "2026-11-22T06:57:08.059157Z",
+  "updated_at": "2026-11-22T06:57:08.059157Z",
+  "lead_time": 8.464
+},
+{
+  "Sheet1": "22 Dhanyabad, tumara sahajya bahut upakari hela.        Non-Toxic   Romanized Odia",
+  "id": 23,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 29,
+  "created_at": "2026-11-22T06:57:15.100909Z",
+  "updated_at": "2026-11-22T06:57:15.100909Z",
+  "lead_time": 6.227
+},
+{
+  "Sheet1": "23 Aji ra video ti mote bahut bhala lagila.             Non-Toxic   Romanized Odia",
+  "id": 24,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 30,
+  "created_at": "2026-11-22T06:57:23.264420Z",
+  "updated_at": "2026-11-22T06:57:23.264420Z",
+  "lead_time": 7.406
+},
+{
+  "Sheet1": "24 Dayakari eita au thare bujhaibe ki?                  Non-Toxic   Romanized Odia",
+  "id": 25,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 31,
+  "created_at": "2026-11-22T06:57:55.571451Z",
+  "updated_at": "2026-11-22T06:57:55.571451Z",
+  "lead_time": 31.475
+},
+{
+  "Sheet1": "25 Mu tumara mata ku samman kare.                       Non-Toxic   Romanized Odia",
+  "id": 26,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 32,
+  "created_at": "2026-11-22T06:58:04.742852Z",
+  "updated_at": "2026-11-22T06:58:04.742852Z",
+  "lead_time": 8.514
+},
+{
+  "Sheet1": "26 Bahut sundara photo, share karithibaru dhanyabad.    Non-Toxic   Romanized Odia",
+  "id": 27,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 33,
+  "created_at": "2026-11-22T06:58:11.717703Z",
+  "updated_at": "2026-11-22T06:58:11.717703Z",
+  "lead_time": 4.392
+},
+{
+  "Sheet1": "27 Bhala chesta, agaku ahuri bhala heba.                Non-Toxic   Romanized Odia",
+  "id": 28,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 34,
+  "created_at": "2026-11-22T06:58:17.293293Z",
+  "updated_at": "2026-11-22T06:58:17.293293Z",
+  "lead_time": 4.775
+},
+{
+  "Sheet1": "28 Tumara idea ti interesting laguchi.                  Non-Toxic   Romanized Odia",
+  "id": 29,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 35,
+  "created_at": "2026-11-22T06:58:43.576154Z",
+  "updated_at": "2026-11-22T06:58:43.576154Z",
+  "lead_time": 25.083
+},
+{
+  "Sheet1": "29 Ei information mote sahajya kala.                    Non-Toxic   Romanized Odia",
+  "id": 30,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 36,
+  "created_at": "2026-11-22T06:58:48.851510Z",
+  "updated_at": "2026-11-22T06:58:48.851510Z",
+  "lead_time": 4.334
+},
+{
+  "Sheet1": "30 Tume bhalare bujhaichha.                             Non-Toxic   Romanized Odia",
+  "id": 31,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 37,
+  "created_at": "2026-11-22T06:58:54.441373Z",
+  "updated_at": "2026-11-22T06:58:54.441373Z",
+  "lead_time": 4.787
+},
+{
+  "Sheet1": "31 Tume kichhi janina, chup ruhan.                      Toxic       Romanized Odia",
+  "id": 32,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 38,
+  "created_at": "2026-11-22T06:59:03.382212Z",
+  "updated_at": "2026-11-22T06:59:03.382212Z",
+  "lead_time": 8.172
+},
+{
+  "Sheet1": "32 Tumara katha sabubele faltu.                         Toxic       Romanized Odia",
+  "id": 33,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 39,
+  "created_at": "2026-11-22T06:59:10.189538Z",
+  "updated_at": "2026-11-22T06:59:10.189538Z",
+  "lead_time": 6.056
+},
+{
+  "Sheet1": "33 Tume ete asabhya kahinki?                            Toxic       Romanized Odia",
+  "id": 34,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 40,
+  "created_at": "2026-11-22T06:59:16.558554Z",
+  "updated_at": "2026-11-22T06:59:16.558554Z",
+  "lead_time": 5.594
+},
+{
+  "Sheet1": "34 Tuma saha katha heba pura waste.                     Toxic       Romanized Odia",
+  "id": 35,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 41,
+  "created_at": "2026-11-22T06:59:29.281997Z",
+  "updated_at": "2026-11-22T06:59:29.282946Z",
+  "lead_time": 11.855
+},
+{
+  "Sheet1": "35 Tume sabubele anya mananku hairana karucha.          Toxic       Romanized Odia",
+  "id": 36,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 42,
+  "created_at": "2026-11-22T07:00:19.377582Z",
+  "updated_at": "2026-11-22T07:00:19.377582Z",
+  "lead_time": 49.265
+},
+{
+  "Sheet1": "36 Epari murkha katha kahiba bandha kara.               Toxic       Romanized Odia",
+  "id": 37,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 43,
+  "created_at": "2026-11-22T07:00:42.123739Z",
+  "updated_at": "2026-11-22T07:00:42.123739Z",
+  "lead_time": 21.955
+},
+{
+  "Sheet1": "37 Tumara behavior bahut kharap.                        Toxic       Romanized Odia",
+  "id": 38,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 44,
+  "created_at": "2026-11-22T07:00:56.225872Z",
+  "updated_at": "2026-11-22T07:00:56.226863Z",
+  "lead_time": 13.32
+},
+{
+  "Sheet1": "38 Tume ethare kichhi kama ra nuha.                     Toxic       Romanized Odia",
+  "id": 39,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 45,
+  "created_at": "2026-11-22T07:01:17.158339Z",
+  "updated_at": "2026-11-22T07:01:17.158339Z",
+  "lead_time": 20.16
+},
+{
+  "Sheet1": "39 Sabubele drama kariba bandha kara.                   Toxic       Romanized Odia",
+  "id": 40,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 46,
+  "created_at": "2026-11-22T07:02:46.644305Z",
+  "updated_at": "2026-11-22T07:02:46.644305Z",
+  "lead_time": 88.812
+},
+{
+  "Sheet1": "40 Tume nijaku bahut smart bhabucha, kintu nuha.        Toxic       Romanized Odia",
+  "id": 41,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 47,
+  "created_at": "2026-11-22T09:59:17.678124Z",
+  "updated_at": "2026-11-22T09:59:17.678124Z",
+  "lead_time": 10590.201
+},
+{
+  "Sheet1": "41 आपने बहुत अच्छा काम किया है।                         Non-Toxic   Hindi",
+  "id": 42,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 48,
+  "created_at": "2026-11-22T09:59:32.250588Z",
+  "updated_at": "2026-11-22T09:59:32.250588Z",
+  "lead_time": 13.694
+},
+{
+  "Sheet1": "42 धन्यवाद, आपकी मदद से मुझे समझ आया।                   Non-Toxic   Hindi",
+  "id": 43,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 49,
+  "created_at": "2026-11-22T09:59:54.545046Z",
+  "updated_at": "2026-11-22T09:59:54.545046Z",
+  "lead_time": 17.738
+},
+{
+  "Sheet1": "43 यह वीडियो बहुत जानकारीपूर्ण है।                      Non-Toxic   Hindi",
+  "id": 44,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 50,
+  "created_at": "2026-11-22T10:00:20.267186Z",
+  "updated_at": "2026-11-22T10:00:20.267186Z",
+  "lead_time": 24.956
+},
+{
+  "Sheet1": "44 कृ पया इसे एक बार फिर समझाइए।                        Non-Toxic   Hindi",
+  "id": 45,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 51,
+  "created_at": "2026-11-22T10:00:50.475913Z",
+  "updated_at": "2026-11-22T10:00:50.475913Z",
+  "lead_time": 29.477
+},
+{
+  "Sheet1": "45 मैं आपकी राय का सम्मान करता हूँ।                     Non-Toxic   Hindi",
+  "id": 46,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 52,
+  "created_at": "2026-11-22T10:00:57.108511Z",
+  "updated_at": "2026-11-22T10:00:57.108511Z",
+  "lead_time": 5.967
+},
+{
+  "Sheet1": "46 आपकी प्रस्तुति अच्छी लगी।                            Non-Toxic   Hindi",
+  "id": 47,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 53,
+  "created_at": "2026-11-22T10:01:05.314642Z",
+  "updated_at": "2026-11-22T10:01:05.314642Z",
+  "lead_time": 7.502
+},
+{
+  "Sheet1": "47 बहुत सुंदर तस्वीर है।                                Non-Toxic   Hindi",
+  "id": 48,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 54,
+  "created_at": "2026-11-22T10:01:13.878983Z",
+  "updated_at": "2026-11-22T10:01:13.878983Z",
+  "lead_time": 7.87
+},
+{
+  "Sheet1": "48 अच्छा प्रयास, आप आगे और बेहतर करें गे।               Non-Toxic   Hindi",
+  "id": 49,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 55,
+  "created_at": "2026-11-22T10:01:20.623521Z",
+  "updated_at": "2026-11-22T10:01:20.623521Z",
+  "lead_time": 6.089
+},
+{
+  "Sheet1": "49 इस जानकारी के लिए धन्यवाद।                                 Non-Toxic   Hindi",
+  "id": 54,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 57,
+  "created_at": "2026-11-22T10:02:04.940107Z",
+  "updated_at": "2026-11-22T10:02:04.940107Z",
+  "lead_time": 9.822
+},
+{
+  "Sheet1": "50 आपका सुझाव उपयोगी है।                                      Non-Toxic   Hindi",
+  "id": 55,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 61,
+  "created_at": "2026-11-22T10:02:34.072421Z",
+  "updated_at": "2026-11-22T10:02:34.072421Z",
+  "lead_time": 6.009
+},
+{
+  "Sheet1": "51 तुम्हें कु छ भी समझ नहीं आता, चुप रहो।                     Toxic       Hindi",
+  "id": 56,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 62,
+  "created_at": "2026-11-22T10:02:57.492344Z",
+  "updated_at": "2026-11-22T10:02:57.492344Z",
+  "lead_time": 22.721
+},
+{
+  "Sheet1": "52 तुम्हारी बातें हमेशा बेकार होती हैं।                       Toxic       Hindi",
+  "id": 57,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 63,
+  "created_at": "2026-11-22T10:03:07.104070Z",
+  "updated_at": "2026-11-22T10:03:07.104070Z",
+  "lead_time": 8.885
+},
+{
+  "Sheet1": "53 तुम इतना बदतमीज़ व्यवहार क्यों करते हो?                    Toxic       Hindi",
+  "id": 58,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 64,
+  "created_at": "2026-11-22T10:03:47.129374Z",
+  "updated_at": "2026-11-22T10:03:47.130279Z",
+  "lead_time": 39.38
+},
+{
+  "Sheet1": "54 तुम जैसे लोगों से बात करना समय की बर्बादी है।              Toxic       Hindi",
+  "id": 59,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 65,
+  "created_at": "2026-11-22T10:03:56.725403Z",
+  "updated_at": "2026-11-22T10:03:56.725403Z",
+  "lead_time": 8.775
+},
+{
+  "Sheet1": "55 दूसरों को परे शान करना बंद करो।                            Toxic       Hindi",
+  "id": 60,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 66,
+  "created_at": "2026-11-22T10:04:05.175949Z",
+  "updated_at": "2026-11-22T10:04:05.175949Z",
+  "lead_time": 7.743
+},
+{
+  "Sheet1": "56 इतनी मूर्खतापूर्ण बातें मत करो।                            Toxic       Hindi",
+  "id": 61,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 67,
+  "created_at": "2026-11-22T10:04:13.013003Z",
+  "updated_at": "2026-11-22T10:04:13.013003Z",
+  "lead_time": 7.176
+},
+{
+  "Sheet1": "57 तुम्हारा व्यवहार बहुत खराब है।                             Toxic       Hindi",
+  "id": 62,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 68,
+  "created_at": "2026-11-22T10:05:15.089733Z",
+  "updated_at": "2026-11-22T10:05:15.089733Z",
+  "lead_time": 61.378
+},
+{
+  "Sheet1": "58 तुम यहाँ किसी काम के नहीं हो।                              Toxic       Hindi",
+  "id": 63,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 69,
+  "created_at": "2026-11-22T10:05:25.557733Z",
+  "updated_at": "2026-11-22T10:05:25.557733Z",
+  "lead_time": 9.742
+},
+{
+  "Sheet1": "59 हर बार दूसरों का मज़ाक उड़ाना बंद करो।                     Toxic       Hindi",
+  "id": 64,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 70,
+  "created_at": "2026-11-22T10:06:24.163672Z",
+  "updated_at": "2026-11-22T10:06:24.163672Z",
+  "lead_time": 57.925
+},
+{
+  "Sheet1": "60 तुम हमेशा बेवजह झगड़ा करते हो।                             Toxic       Hindi",
+  "id": 65,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 71,
+  "created_at": "2026-11-22T10:15:31.448085Z",
+  "updated_at": "2026-11-22T10:15:31.448085Z",
+  "lead_time": 546.496
+},
+{
+  "Sheet1": "61 You did a great job on this project.                       Non-Toxic   English",
+  "id": 66,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 72,
+  "created_at": "2026-11-22T10:17:19.646587Z",
+  "updated_at": "2026-11-22T10:17:19.646587Z",
+  "lead_time": 107.45
+},
+{
+  "Sheet1": "62 Thank you for sharing this helpful information.            Non-Toxic   English",
+  "id": 67,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 73,
+  "created_at": "2026-11-22T10:17:27.040651Z",
+  "updated_at": "2026-11-22T10:17:27.041654Z",
+  "lead_time": 6.666
+},
+{
+  "Sheet1": "63 I respectfully disagree with your opinion.                 Non-Toxic   English",
+  "id": 68,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 74,
+  "created_at": "2026-11-22T10:18:11.117061Z",
+  "updated_at": "2026-11-22T10:18:11.117061Z",
+  "lead_time": 43.335
+},
+{
+  "Sheet1": "64 Could you please explain this part again?                  Non-Toxic   English",
+  "id": 69,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 75,
+  "created_at": "2026-11-22T10:18:22.666784Z",
+  "updated_at": "2026-11-22T10:18:22.666784Z",
+  "lead_time": 10.764
+},
+{
+  "Sheet1": "65 This video was clear and informative.                      Non-Toxic   English",
+  "id": 70,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 76,
+  "created_at": "2026-11-22T10:18:28.950365Z",
+  "updated_at": "2026-11-22T10:18:28.950365Z",
+  "lead_time": 5.546
+},
+{
+  "Sheet1": "66 I appreciate your effort and hard work.                    Non-Toxic   English",
+  "id": 71,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 77,
+  "created_at": "2026-11-22T14:55:47.208994Z",
+  "updated_at": "2026-11-22T14:55:47.208994Z",
+  "lead_time": 7.243
+},
+{
+  "Sheet1": "67 That is an interesting point of view.                      Non-Toxic   English",
+  "id": 72,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 78,
+  "created_at": "2026-11-22T14:56:21.391092Z",
+  "updated_at": "2026-11-22T14:56:21.391092Z",
+  "lead_time": 33.448
+},
+{
+  "Sheet1": "68 Your presentation was well organized.                      Non-Toxic   English",
+  "id": 73,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 79,
+  "created_at": "2026-11-22T14:56:27.420465Z",
+  "updated_at": "2026-11-22T14:56:27.420465Z",
+  "lead_time": 5.28
+},
+{
+  "Sheet1": "69 I learned something new from this post.                    Non-Toxic   English",
+  "id": 74,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 80,
+  "created_at": "2026-11-22T14:56:36.626040Z",
+  "updated_at": "2026-11-22T14:56:36.626040Z",
+  "lead_time": 8.469
+},
+{
+  "Sheet1": "70 Please keep sharing useful content.                        Non-Toxic   English",
+  "id": 75,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 81,
+  "created_at": "2026-11-22T14:58:58.104894Z",
+  "updated_at": "2026-11-22T14:58:58.104894Z",
+  "lead_time": 7.939
+},
+{
+  "Sheet1": "71 You are clueless, so stop talking.                         Toxic       English",
+  "id": 76,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 82,
+  "created_at": "2026-11-22T14:59:06.432292Z",
+  "updated_at": "2026-11-22T14:59:06.432292Z",
+  "lead_time": 7.611
+},
+{
+  "Sheet1": "72 Your comments are always pointless.                        Toxic       English",
+  "id": 77,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 83,
+  "created_at": "2026-11-22T14:59:12.836272Z",
+  "updated_at": "2026-11-22T14:59:12.836272Z",
+  "lead_time": 5.681
+},
+{
+  "Sheet1": "73 Stop being so rude to everyone.                            Toxic       English",
+  "id": 78,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 84,
+  "created_at": "2026-11-22T14:59:20.430461Z",
+  "updated_at": "2026-11-22T14:59:20.430461Z",
+  "lead_time": 6.897
+},
+{
+  "Sheet1": "74 Nobody wants to hear your nonsense.                        Toxic       English",
+  "id": 79,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 85,
+  "created_at": "2026-11-22T14:59:28.413618Z",
+  "updated_at": "2026-11-22T14:59:28.413618Z",
+  "lead_time": 7.288
+},
+{
+  "Sheet1": "75 You are making this discussion worse.                      Toxic       English",
+  "id": 80,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 86,
+  "created_at": "2026-11-22T14:59:37.980582Z",
+  "updated_at": "2026-11-22T14:59:37.980582Z",
+  "lead_time": 8.883
+},
+{
+  "Sheet1": "76 That was a really stupid thing to say.                     Toxic       English",
+  "id": 81,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 87,
+  "created_at": "2026-11-22T14:59:45.945759Z",
+  "updated_at": "2026-11-22T14:59:45.945759Z",
+  "lead_time": 7.272
+},
+{
+  "Sheet1": "77 You are completely useless in this group.                  Toxic       English",
+  "id": 82,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 88,
+  "created_at": "2026-11-22T14:59:51.136603Z",
+  "updated_at": "2026-11-22T14:59:51.136603Z",
+  "lead_time": 4.471
+},
+{
+  "Sheet1": "78 Stop mocking people just to feel superior.                 Toxic       English",
+  "id": 83,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 89,
+  "created_at": "2026-11-22T14:59:58.487165Z",
+  "updated_at": "2026-11-22T14:59:58.487165Z",
+  "lead_time": 6.642
+},
+{
+  "Sheet1": "79 You never listen and always blame others.                  Toxic       English",
+  "id": 84,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 90,
+  "created_at": "2026-11-22T15:00:05.380129Z",
+  "updated_at": "2026-11-22T15:00:05.380129Z",
+  "lead_time": 6.144
+},
+{
+  "Sheet1": "80 Your attitude is unpleasant and disrespectful.             Toxic       English",
+  "id": 85,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 91,
+  "created_at": "2026-11-22T15:00:15.038843Z",
+  "updated_at": "2026-11-22T15:00:15.038843Z",
+  "lead_time": 8.916
+},
+{
+  "Sheet1": "81 Your explanation bahut clear thila, thank you!             Non-Toxic   Mixed",
+  "id": 86,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 92,
+  "created_at": "2026-11-22T15:00:24.927623Z",
+  "updated_at": "2026-11-22T15:00:24.927623Z",
+  "lead_time": 9.095
+},
+{
+  "Sheet1": "82 ଭଲ video, keep sharing more content.                       Non-Toxic   Mixed",
+  "id": 87,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 93,
+  "created_at": "2026-11-22T15:00:33.106867Z",
+  "updated_at": "2026-11-22T15:00:33.106867Z",
+  "lead_time": 7.445
+},
+{
+  "Sheet1": "83 Aji ra class was really helpful, dhanyabad.                Non-Toxic   Mixed",
+  "id": 88,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 94,
+  "created_at": "2026-11-22T15:00:39.962034Z",
+  "updated_at": "2026-11-22T15:00:39.962034Z",
+  "lead_time": 6.149
+},
+{
+  "Sheet1": "84 आपका idea bahut अच्छा है.                                  Non-Toxic   Mixed",
+  "id": 89,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 95,
+  "created_at": "2026-11-22T15:00:46.124707Z",
+  "updated_at": "2026-11-22T15:00:46.124707Z",
+  "lead_time": 5.422
+},
+{
+  "Sheet1": "85 Please mote eita bujhei dia, I want to learn.              Non-Toxic   Mixed",
+  "id": 90,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 96,
+  "created_at": "2026-11-22T15:00:53.650870Z",
+  "updated_at": "2026-11-22T15:00:53.650870Z",
+  "lead_time": 6.797
+},
+{
+  "Sheet1": "86 Tumara presentation really impressive lagila.              Non-Toxic   Mixed",
+  "id": 91,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 97,
+  "created_at": "2026-11-22T15:01:58.926239Z",
+  "updated_at": "2026-11-22T15:01:58.926239Z",
+  "lead_time": 64.585
+},
+{
+  "Sheet1": "87 ଏହି topic ta interesting, please explain more.             Non-Toxic   Mixed",
+  "id": 92,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 98,
+  "created_at": "2026-11-22T15:02:06.780791Z",
+  "updated_at": "2026-11-22T15:02:06.780791Z",
+  "lead_time": 7.072
+},
+{
+  "Sheet1": "88 Aapki help ke liye thank you so much.                      Non-Toxic   Mixed",
+  "id": 93,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 99,
+  "created_at": "2026-11-22T15:02:13.605249Z",
+  "updated_at": "2026-11-22T15:02:13.605249Z",
+  "lead_time": 6.114
+},
+{
+  "Sheet1": "89 Mu agree karuchi, this is a good suggestion.               Non-Toxic   Mixed",
+  "id": 94,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 100,
+  "created_at": "2026-11-22T15:02:28.075875Z",
+  "updated_at": "2026-11-22T15:02:28.075875Z",
+  "lead_time": 13.73
+},
+{
+  "Sheet1": "90 ଆଜିର post bahut informative achhi.                         Non-Toxic   Mixed",
+  "id": 95,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 101,
+  "created_at": "2026-11-22T15:02:35.236844Z",
+  "updated_at": "2026-11-22T15:02:35.236844Z",
+  "lead_time": 6.384
+},
+{
+  "Sheet1": "91 Tume kichhi janina, stop giving advice.                    Toxic       Mixed",
+  "id": 96,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 102,
+  "created_at": "2026-11-22T15:02:42.276398Z",
+  "updated_at": "2026-11-22T15:02:42.276398Z",
+  "lead_time": 6.229
+},
+{
+  "Sheet1": "92 तुम्हारी बातें pura bakwas हैं, chup raho.                 Toxic       Mixed",
+  "id": 97,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 103,
+  "created_at": "2026-11-22T15:02:48.009436Z",
+  "updated_at": "2026-11-22T15:02:48.009436Z",
+  "lead_time": 5.007
+},
+{
+  "Sheet1": "93 Your attitude bahut kharap, be respectful.                 Toxic       Mixed",
+  "id": 98,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 104,
+  "created_at": "2026-11-22T15:02:54.475482Z",
+  "updated_at": "2026-11-22T15:02:54.475482Z",
+  "lead_time": 5.713
+},
+{
+  "Sheet1": "94 ଏମିତି nonsense katha kahiba bandha kara.                   Toxic       Mixed",
+  "id": 99,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 105,
+  "created_at": "2026-11-22T15:03:01.583703Z",
+  "updated_at": "2026-11-22T15:03:01.583703Z",
+  "lead_time": 6.37
+},
+{
+  "Sheet1": "95 Tum bahut rude ho, sabu ku disturb karucha.                Toxic       Mixed",
+  "id": 100,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 106,
+  "created_at": "2026-11-22T15:03:09.661146Z",
+  "updated_at": "2026-11-22T15:03:09.661146Z",
+  "lead_time": 7.329
+},
+{
+  "Sheet1": "96 You are useless, ତୁ ମେ କିଛି କାମର ନୁ ହଁ।                    Toxic       Mixed",
+  "id": 101,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 107,
+  "created_at": "2026-11-22T15:03:16.426180Z",
+  "updated_at": "2026-11-22T15:03:16.426180Z",
+  "lead_time": 6.081
+},
+{
+  "Sheet1": "97 ତୁ ମର comment pura faltu, stop it.                         Toxic       Mixed",
+  "id": 102,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 108,
+  "created_at": "2026-11-22T15:03:25.907546Z",
+  "updated_at": "2026-11-22T15:03:25.907546Z",
+  "lead_time": 8.748
+},
+{
+  "Sheet1": "98 Aise stupid comments kariba bandha kara.               Toxic   Mixed",
+  "id": 107,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 109,
+  "created_at": "2026-11-22T15:03:39.310414Z",
+  "updated_at": "2026-11-22T15:03:39.310414Z",
+  "lead_time": 12.665
+},
+{
+  "Sheet1": "99 You never understand, ଚୁ ପ୍ ରୁ ହ।                      Toxic   Mixed",
+  "id": 108,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 110,
+  "created_at": "2026-11-22T15:03:45.486927Z",
+  "updated_at": "2026-11-22T15:03:45.486927Z",
+  "lead_time": 5.413
+},
+{
+  "Sheet1": "100 Tumara behavior is pathetic, sabu ku insult karucha.   Toxic   Mixed",
+  "id": 109,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 111,
+  "created_at": "2026-11-22T15:03:52.695075Z",
+  "updated_at": "2026-11-22T15:03:52.695075Z",
+  "lead_time": 6.516
+}
+]

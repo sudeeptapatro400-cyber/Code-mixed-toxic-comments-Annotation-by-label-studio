@@ -1,0 +1,892 @@
+[
+{
+  "text": "\"Bhai video ta mast heichi\"",
+  "id": 111,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 115,
+  "created_at": "2026-11-22T17:15:31.820295Z",
+  "updated_at": "2026-11-22T17:15:31.820295Z",
+  "lead_time": 4.777
+},
+{
+  "text": "\"Arey wah! Kya baat hai bhai\"",
+  "id": 112,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 116,
+  "created_at": "2026-11-22T17:15:38.504197Z",
+  "updated_at": "2026-11-22T17:15:38.504197Z",
+  "lead_time": 5.932
+},
+{
+  "text": "\"Bahut badhiya content hai yaar\"",
+  "id": 113,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 117,
+  "created_at": "2026-11-22T17:15:43.722603Z",
+  "updated_at": "2026-11-22T17:15:43.722603Z",
+  "lead_time": 4.444
+},
+{
+  "text": "\"Editing pura next level achi bhai\"",
+  "id": 114,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 118,
+  "created_at": "2026-11-22T17:15:51.407897Z",
+  "updated_at": "2026-11-22T17:15:51.407897Z",
+  "lead_time": 6.969
+},
+{
+  "text": "\"Odisha ru support rahila bhaina\"",
+  "id": 115,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 119,
+  "created_at": "2026-11-22T17:15:57.568087Z",
+  "updated_at": "2026-11-22T17:15:57.568087Z",
+  "lead_time": 5.467
+},
+{
+  "text": "\"Bhai explanation ta bahut clear thila\"",
+  "id": 116,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 120,
+  "created_at": "2026-11-22T17:16:09.232211Z",
+  "updated_at": "2026-11-22T17:16:09.232211Z",
+  "lead_time": 10.854
+},
+{
+  "text": "\"Ye video dekh ke maja aa gaya\"",
+  "id": 117,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 121,
+  "created_at": "2026-11-22T17:16:14.097221Z",
+  "updated_at": "2026-11-22T17:16:14.097221Z",
+  "lead_time": 4.156
+},
+{
+  "text": "\"Keep going bhai, ek din famous haba\"",
+  "id": 118,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 122,
+  "created_at": "2026-11-22T17:16:20.121960Z",
+  "updated_at": "2026-11-22T17:16:20.121960Z",
+  "lead_time": 5.291
+},
+{
+  "text": "\"Thumbnail dekhi click karithili, video bhi badiya thila\"",
+  "id": 119,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 123,
+  "created_at": "2026-11-22T17:16:26.738074Z",
+  "updated_at": "2026-11-22T17:16:26.738074Z",
+  "lead_time": 5.854
+},
+{
+  "text": "\"Part 2 jaldi upload kara please\"",
+  "id": 120,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 124,
+  "created_at": "2026-11-22T17:16:32.803091Z",
+  "updated_at": "2026-11-22T17:16:32.803091Z",
+  "lead_time": 5.318
+},
+{
+  "text": "\"Arey bhai, tum toh chha gaye!\"",
+  "id": 121,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 125,
+  "created_at": "2026-11-22T17:16:38.856413Z",
+  "updated_at": "2026-11-22T17:16:38.856413Z",
+  "lead_time": 5.353
+},
+{
+  "text": "\"Bahut din pare gote bhala video dekhili\"",
+  "id": 122,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 126,
+  "created_at": "2026-11-22T17:16:44.173113Z",
+  "updated_at": "2026-11-22T17:16:44.173113Z",
+  "lead_time": 4.586
+},
+{
+  "text": "\"Audio tike low achi, baki sabu thik achi\"",
+  "id": 123,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 127,
+  "created_at": "2026-11-22T17:16:50.057721Z",
+  "updated_at": "2026-11-22T17:16:50.057721Z",
+  "lead_time": 5.184
+},
+{
+  "text": "\"Content ta useful thila, thanks yaar\"",
+  "id": 124,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 128,
+  "created_at": "2026-11-22T17:16:55.050417Z",
+  "updated_at": "2026-11-22T17:16:55.050417Z",
+  "lead_time": 4.286
+},
+{
+  "text": "\"Kya talent hai bhai, keep it up!\"",
+  "id": 125,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 129,
+  "created_at": "2026-11-22T17:16:59.744974Z",
+  "updated_at": "2026-11-22T17:16:59.744974Z",
+  "lead_time": 3.93
+},
+{
+  "text": "\"Mu bhi eita try karibi, thanks for sharing\"",
+  "id": 126,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 130,
+  "created_at": "2026-11-22T17:17:06.391265Z",
+  "updated_at": "2026-11-22T17:17:06.391265Z",
+  "lead_time": 5.924
+},
+{
+  "text": "\"Full paisa vasool video\"",
+  "id": 127,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 131,
+  "created_at": "2026-11-22T17:17:12.635464Z",
+  "updated_at": "2026-11-22T17:17:12.635464Z",
+  "lead_time": 5.483
+},
+{
+  "text": "\"Simple explanation, easily bujhi hela\"",
+  "id": 128,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 132,
+  "created_at": "2026-11-22T17:17:18.189317Z",
+  "updated_at": "2026-11-22T17:17:18.189317Z",
+  "lead_time": 4.841
+},
+{
+  "text": "\"Bhai tumhara confidence kamaal hai\"",
+  "id": 129,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 133,
+  "created_at": "2026-11-22T17:17:23.051033Z",
+  "updated_at": "2026-11-22T17:17:23.051033Z",
+  "lead_time": 4.141
+},
+{
+  "text": "\"Support from Cuttack, keep growing!\"",
+  "id": 130,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 134,
+  "created_at": "2026-11-22T17:17:28.884543Z",
+  "updated_at": "2026-11-22T17:17:28.884543Z",
+  "lead_time": 5.097
+},
+{
+  "text": "\"Ye wali reel baar baar dekhne layak hai\"",
+  "id": 131,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 135,
+  "created_at": "2026-11-22T17:17:47.949296Z",
+  "updated_at": "2026-11-22T17:17:47.949296Z",
+  "lead_time": 18.346
+},
+{
+  "text": "\"Bahut sundar presentation karicha\"",
+  "id": 132,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 136,
+  "created_at": "2026-11-22T17:17:54.266557Z",
+  "updated_at": "2026-11-22T17:17:54.266557Z",
+  "lead_time": 5.621
+},
+{
+  "text": "\"Finally ek genuine creator milila\"",
+  "id": 133,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 137,
+  "created_at": "2026-11-22T17:17:59.194944Z",
+  "updated_at": "2026-11-22T17:17:59.194944Z",
+  "lead_time": 4.225
+},
+{
+  "text": "\"Bro understood the assignment\"",
+  "id": 134,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 138,
+  "created_at": "2026-11-22T17:18:04.699344Z",
+  "updated_at": "2026-11-22T17:18:04.699344Z",
+  "lead_time": 4.728
+},
+{
+  "text": "\"Arey yaar, hasi hasi pet dukhigala\"",
+  "id": 135,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 139,
+  "created_at": "2026-11-22T17:18:12.472974Z",
+  "updated_at": "2026-11-22T17:18:12.472974Z",
+  "lead_time": 7.024
+},
+{
+  "text": "\"Video ta bhala lagila, aau upload kara\"",
+  "id": 136,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 140,
+  "created_at": "2026-11-22T17:18:17.732666Z",
+  "updated_at": "2026-11-22T17:18:17.732666Z",
+  "lead_time": 4.551
+},
+{
+  "text": "\"Sir, please make a detailed tutorial on this\"",
+  "id": 137,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 141,
+  "created_at": "2026-11-22T17:18:24.793382Z",
+  "updated_at": "2026-11-22T17:18:24.793382Z",
+  "lead_time": 6.308
+},
+{
+  "text": "\"Kaafi interesting topic hai bhai\"",
+  "id": 138,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 142,
+  "created_at": "2026-11-22T17:18:31.004155Z",
+  "updated_at": "2026-11-22T17:18:31.004155Z",
+  "lead_time": 5.535
+},
+{
+  "text": "\"Mu Odisha ru dekhuchi, love your content\"",
+  "id": 139,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 143,
+  "created_at": "2026-11-22T17:18:37.015110Z",
+  "updated_at": "2026-11-22T17:18:37.015110Z",
+  "lead_time": 5.314
+},
+{
+  "text": "\"Ek number performance, bhaina!\"",
+  "id": 140,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 144,
+  "created_at": "2026-11-22T17:18:41.903833Z",
+  "updated_at": "2026-11-22T17:18:41.903833Z",
+  "lead_time": 4.185
+},
+{
+  "text": "\"Thoda improvement darkar, but good attempt\"",
+  "id": 141,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 145,
+  "created_at": "2026-11-22T17:18:46.895473Z",
+  "updated_at": "2026-11-22T17:18:46.895473Z",
+  "lead_time": 4.257
+},
+{
+  "text": "\"Bahut mehnat karicha, clearly dekha jauchi\"",
+  "id": 142,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 146,
+  "created_at": "2026-11-22T17:18:51.617776Z",
+  "updated_at": "2026-11-22T17:18:51.617776Z",
+  "lead_time": 4.004
+},
+{
+  "text": "\"Ye information sach mein helpful hai\"",
+  "id": 143,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 147,
+  "created_at": "2026-11-22T17:18:56.187555Z",
+  "updated_at": "2026-11-22T17:18:56.187555Z",
+  "lead_time": 3.877
+},
+{
+  "text": "\"Nice effort yaar, keep shining\"",
+  "id": 144,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 148,
+  "created_at": "2026-11-22T17:19:02.047060Z",
+  "updated_at": "2026-11-22T17:19:02.047060Z",
+  "lead_time": 5.147
+},
+{
+  "text": "\"Background music tike kam karithile bhala heithanta\"",
+  "id": 145,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 149,
+  "created_at": "2026-11-22T17:19:12.342145Z",
+  "updated_at": "2026-11-22T17:19:12.342145Z",
+  "lead_time": 9.419
+},
+{
+  "text": "\"Bro, this is actually impressive\"",
+  "id": 146,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 150,
+  "created_at": "2026-11-22T17:19:16.730198Z",
+  "updated_at": "2026-11-22T17:19:16.730198Z",
+  "lead_time": 3.673
+},
+{
+  "text": "\"Kebe bhi give up karibani bhai\"",
+  "id": 147,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 151,
+  "created_at": "2026-11-22T17:19:25.016845Z",
+  "updated_at": "2026-11-22T17:19:25.016845Z",
+  "lead_time": 7.579
+},
+{
+  "text": "\"Video ra ending ta mast thila\"",
+  "id": 148,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 152,
+  "created_at": "2026-11-22T17:19:29.797474Z",
+  "updated_at": "2026-11-22T17:19:29.797474Z",
+  "lead_time": 4.073
+},
+{
+  "text": "\"Apka content dekhna achha lagta hai\"",
+  "id": 149,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 153,
+  "created_at": "2026-11-22T17:19:35.245639Z",
+  "updated_at": "2026-11-22T17:19:35.245639Z",
+  "lead_time": 4.746
+},
+{
+  "text": "\"Subscribed! Aise hi informative videos banao\"",
+  "id": 150,
+  "content_moderation": "Non-Toxic",
+  "annotator": 1,
+  "annotation_id": 154,
+  "created_at": "2026-11-22T17:19:40.279133Z",
+  "updated_at": "2026-11-22T17:19:40.279133Z",
+  "lead_time": 4.263
+},
+{
+  "text": "\"Arey bhai, ye kya bana diya\"",
+  "id": 151,
+  "content_moderation": {
+    "choices": [
+      "Non-Toxic",
+      "Offensive"
+    ]
+  },
+  "annotator": 1,
+  "annotation_id": 155,
+  "created_at": "2026-11-22T17:19:48.334747Z",
+  "updated_at": "2026-11-22T17:19:48.334747Z",
+  "lead_time": 7.373
+},
+{
+  "text": "\"Kana bekar content upload karucha?\"",
+  "id": 152,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 156,
+  "created_at": "2026-11-22T17:19:53.739901Z",
+  "updated_at": "2026-11-22T17:19:53.739901Z",
+  "lead_time": 4.741
+},
+{
+  "text": "\"Dimag achi ki nahi tamara?\"",
+  "id": 153,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 157,
+  "created_at": "2026-11-22T17:20:00.269620Z",
+  "updated_at": "2026-11-22T17:20:00.270606Z",
+  "lead_time": 5.708
+},
+{
+  "text": "\"Bhai tumse na ho payega\"",
+  "id": 154,
+  "content_moderation": {
+    "choices": [
+      "Toxic",
+      "Offensive"
+    ]
+  },
+  "annotator": 1,
+  "annotation_id": 158,
+  "created_at": "2026-11-22T17:20:06.906272Z",
+  "updated_at": "2026-11-22T17:20:06.906272Z",
+  "lead_time": 5.853
+},
+{
+  "text": "\"Itna ghatiya video kaise bana lete ho?\"",
+  "id": 155,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 159,
+  "created_at": "2026-11-22T17:20:14.465913Z",
+  "updated_at": "2026-11-22T17:20:14.465913Z",
+  "lead_time": 6.763
+},
+{
+  "text": "\"Chup raha bhai, bahut gyan de diya\"",
+  "id": 156,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 160,
+  "created_at": "2026-11-22T17:20:23.566307Z",
+  "updated_at": "2026-11-22T17:20:23.566307Z",
+  "lead_time": 8.394
+},
+{
+  "text": "\"Pure time waste karidela e video\"",
+  "id": 157,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 161,
+  "created_at": "2026-11-22T17:20:28.794573Z",
+  "updated_at": "2026-11-22T17:20:28.794573Z",
+  "lead_time": 4.522
+},
+{
+  "text": "\"Tu creator kam joker besi laguchu\"",
+  "id": 158,
+  "content_moderation": {
+    "choices": [
+      "Toxic",
+      "Offensive"
+    ]
+  },
+  "annotator": 1,
+  "annotation_id": 162,
+  "created_at": "2026-11-22T17:20:35.548437Z",
+  "updated_at": "2026-11-22T17:20:35.548437Z",
+  "lead_time": 6.027
+},
+{
+  "text": "\"Kuch bhi bolta hai, knowledge zero hai\"",
+  "id": 159,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 163,
+  "created_at": "2026-11-22T17:20:45.447768Z",
+  "updated_at": "2026-11-22T17:20:45.447768Z",
+  "lead_time": 5.882
+},
+{
+  "text": "\"Tamara video dekhiba tharu soiba bhala\"",
+  "id": 160,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 164,
+  "created_at": "2026-11-22T17:21:05.033697Z",
+  "updated_at": "2026-11-22T17:21:05.033697Z",
+  "lead_time": 18.934
+},
+{
+  "text": "\"Fake content banaiba band kara\"",
+  "id": 161,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 165,
+  "created_at": "2026-11-22T17:21:09.754526Z",
+  "updated_at": "2026-11-22T17:21:09.754526Z",
+  "lead_time": 3.968
+},
+{
+  "text": "\"Arey bhai, pehle khud seekh ke aao\"",
+  "id": 162,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 166,
+  "created_at": "2026-11-22T17:21:14.690036Z",
+  "updated_at": "2026-11-22T17:21:14.690036Z",
+  "lead_time": 4.232
+},
+{
+  "text": "\"Ye acting dekh ke second hand embarrassment hela\"",
+  "id": 163,
+  "content_moderation": {
+    "choices": [
+      "Toxic",
+      "Offensive"
+    ]
+  },
+  "annotator": 1,
+  "annotation_id": 167,
+  "created_at": "2026-11-22T17:21:23.466171Z",
+  "updated_at": "2026-11-22T17:21:23.466171Z",
+  "lead_time": 8.119
+},
+{
+  "text": "\"Bekar thumbnail, bekar video, sab bekar\"",
+  "id": 164,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 168,
+  "created_at": "2026-11-22T17:21:29.042380Z",
+  "updated_at": "2026-11-22T17:21:29.042380Z",
+  "lead_time": 4.759
+},
+{
+  "text": "\"Views pain ete nataka karucha?\"",
+  "id": 165,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 169,
+  "created_at": "2026-11-22T17:21:33.844741Z",
+  "updated_at": "2026-11-22T17:21:33.844741Z",
+  "lead_time": 4.105
+},
+{
+  "text": "\"Tu pura boka, kichhi jana nahi\"",
+  "id": 166,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 170,
+  "created_at": "2026-11-22T17:21:41.376035Z",
+  "updated_at": "2026-11-22T17:21:41.376035Z",
+  "lead_time": 6.789
+},
+{
+  "text": "\"Isse achha toh video mat banao\"",
+  "id": 167,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 171,
+  "created_at": "2026-11-22T17:21:47.887841Z",
+  "updated_at": "2026-11-22T17:21:47.887841Z",
+  "lead_time": 5.799
+},
+{
+  "text": "\"Kitna cringe content hai yaar\"",
+  "id": 168,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 172,
+  "created_at": "2026-11-22T17:21:54.548504Z",
+  "updated_at": "2026-11-22T17:21:54.548504Z",
+  "lead_time": 5.958
+},
+{
+  "text": "\"Tamara voice sunile headache heuchi\"",
+  "id": 169,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 173,
+  "created_at": "2026-11-22T17:22:03.292341Z",
+  "updated_at": "2026-11-22T17:22:03.292341Z",
+  "lead_time": 8.02
+},
+{
+  "text": "\"Bas kar bhai, aur nahi dekha ja raha\"",
+  "id": 170,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 174,
+  "created_at": "2026-11-22T17:22:10.953956Z",
+  "updated_at": "2026-11-22T17:22:10.953956Z",
+  "lead_time": 6.643
+},
+{
+  "text": "\"Copy paste kariki creator sajicha\"",
+  "id": 171,
+  "content_moderation": {
+    "choices": [
+      "Offensive",
+      "Hate-Abusive"
+    ]
+  },
+  "annotator": 1,
+  "annotation_id": 175,
+  "created_at": "2026-11-22T17:22:17.753728Z",
+  "updated_at": "2026-11-22T17:22:17.753728Z",
+  "lead_time": 6.146
+},
+{
+  "text": "\"Your content is trash, seriously\"",
+  "id": 172,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 176,
+  "created_at": "2026-11-22T17:22:23.955992Z",
+  "updated_at": "2026-11-22T17:22:23.955992Z",
+  "lead_time": 4.732
+},
+{
+  "text": "\"Kaun dekhega aisa faltu video?\"",
+  "id": 173,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 177,
+  "created_at": "2026-11-22T17:22:30.738183Z",
+  "updated_at": "2026-11-22T17:22:30.738183Z",
+  "lead_time": 6.11
+},
+{
+  "text": "\"Dimag ghar re chhadi asicha ki?\"",
+  "id": 174,
+  "content_moderation": {
+    "choices": [
+      "Toxic",
+      "Hate-Abusive"
+    ]
+  },
+  "annotator": 1,
+  "annotation_id": 178,
+  "created_at": "2026-11-22T17:22:40.267153Z",
+  "updated_at": "2026-11-22T17:22:40.267153Z",
+  "lead_time": 8.857
+},
+{
+  "text": "\"Unsubscribe karideli, worst channel ever\"",
+  "id": 175,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 179,
+  "created_at": "2026-11-22T17:22:52.884695Z",
+  "updated_at": "2026-11-22T17:22:52.884695Z",
+  "lead_time": 11.889
+},
+{
+  "text": "\"Overacting ra bhi limit thae bhai\"",
+  "id": 176,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 180,
+  "created_at": "2026-11-22T17:22:57.820530Z",
+  "updated_at": "2026-11-22T17:22:57.820530Z",
+  "lead_time": 4.208
+},
+{
+  "text": "\"Stop spreading nonsense information\"",
+  "id": 177,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 181,
+  "created_at": "2026-11-22T17:23:02.211792Z",
+  "updated_at": "2026-11-22T17:23:02.211792Z",
+  "lead_time": 3.667
+},
+{
+  "text": "\"Tu kichhi kama dhanda kara, e sabu chhadi de\"",
+  "id": 178,
+  "content_moderation": {
+    "choices": [
+      "Toxic",
+      "Offensive"
+    ]
+  },
+  "annotator": 1,
+  "annotation_id": 182,
+  "created_at": "2026-11-22T17:23:15.920242Z",
+  "updated_at": "2026-11-22T17:23:15.920242Z",
+  "lead_time": 13.033
+},
+{
+  "text": "\"Pathetic editing, aankha kharap heigala\"",
+  "id": 179,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 183,
+  "created_at": "2026-11-22T17:23:23.040376Z",
+  "updated_at": "2026-11-22T17:23:23.040376Z",
+  "lead_time": 6.42
+},
+{
+  "text": "\"Arey yaar, kya bakwas kar raha hai?\"",
+  "id": 180,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 184,
+  "created_at": "2026-11-22T17:23:42.113043Z",
+  "updated_at": "2026-11-22T17:23:42.113043Z",
+  "lead_time": 6.102
+},
+{
+  "text": "\"Etiki bhi knowledge nahi, tutorial banaibaku asicha\"",
+  "id": 181,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 185,
+  "created_at": "2026-11-22T17:23:51.794910Z",
+  "updated_at": "2026-11-22T17:23:51.794910Z",
+  "lead_time": 9.066
+},
+{
+  "text": "\"Bro thinks he is a superstar\"",
+  "id": 182,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 186,
+  "created_at": "2026-11-22T17:23:59.498681Z",
+  "updated_at": "2026-11-22T17:23:59.498681Z",
+  "lead_time": 6.965
+},
+{
+  "text": "\"Tamaku dekhi hasi laguchi, seriously\"",
+  "id": 183,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 187,
+  "created_at": "2026-11-22T17:24:04.517143Z",
+  "updated_at": "2026-11-22T17:24:04.517143Z",
+  "lead_time": 4.314
+},
+{
+  "text": "\"Faltu video, ek second bhi worth nahi\"",
+  "id": 184,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 188,
+  "created_at": "2026-11-22T17:24:09.346191Z",
+  "updated_at": "2026-11-22T17:24:09.346191Z",
+  "lead_time": 4.123
+},
+{
+  "text": "\"Views miliba pain sabu drama karucha\"",
+  "id": 185,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 189,
+  "created_at": "2026-11-22T17:24:13.807290Z",
+  "updated_at": "2026-11-22T17:24:13.807290Z",
+  "lead_time": 3.737
+},
+{
+  "text": "\"Please stop uploading such rubbish\"",
+  "id": 186,
+  "content_moderation": "Toxic",
+  "annotator": 1,
+  "annotation_id": 190,
+  "created_at": "2026-11-22T17:24:18.158807Z",
+  "updated_at": "2026-11-22T17:24:18.158807Z",
+  "lead_time": 3.633
+},
+{
+  "text": "\"Bhai, tere se achha toh beginner bana lega\"",
+  "id": 187,
+  "content_moderation": "Toxic",
+  "annotator": 1,
+  "annotation_id": 191,
+  "created_at": "2026-11-22T17:24:28.349599Z",
+  "updated_at": "2026-11-22T17:24:28.349599Z",
+  "lead_time": 9.49
+},
+{
+  "text": "\"Na content achi na quality, bas upload karidela\"",
+  "id": 188,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 192,
+  "created_at": "2026-11-22T17:24:37.028293Z",
+  "updated_at": "2026-11-22T17:24:37.028807Z",
+  "lead_time": 7.953
+},
+{
+  "text": "\"Kya third class video hai, unbelievable\"",
+  "id": 189,
+  "content_moderation": {
+    "choices": [
+      "Offensive",
+      "Hate-Abusive"
+    ]
+  },
+  "annotator": 1,
+  "annotation_id": 193,
+  "created_at": "2026-11-22T17:24:43.337203Z",
+  "updated_at": "2026-11-22T17:24:43.337203Z",
+  "lead_time": 5.452
+},
+{
+  "text": "\"Time waste kariba pain thanks bhai\"",
+  "id": 190,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 194,
+  "created_at": "2026-11-22T17:24:48.202877Z",
+  "updated_at": "2026-11-22T17:24:48.203835Z",
+  "lead_time": 4.148
+},
+{
+  "text": "\"Tu pura irritating, video band kara\"",
+  "id": 191,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 195,
+  "created_at": "2026-11-22T17:24:52.898151Z",
+  "updated_at": "2026-11-22T17:24:52.898151Z",
+  "lead_time": 3.937
+},
+{
+  "text": "\"Such a useless creator, no talent at all\"",
+  "id": 192,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 196,
+  "created_at": "2026-11-22T17:24:58.606427Z",
+  "updated_at": "2026-11-22T17:24:58.606427Z",
+  "lead_time": 5.014
+},
+{
+  "text": "\"Bas naam ka influencer, kaam zero\"",
+  "id": 193,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 197,
+  "created_at": "2026-11-22T17:25:04.046745Z",
+  "updated_at": "2026-11-22T17:25:04.046745Z",
+  "lead_time": 4.75
+},
+{
+  "text": "\"Ye video dekh ke mood kharab ho gaya\"",
+  "id": 194,
+  "content_moderation": "Offensive",
+  "annotator": 1,
+  "annotation_id": 198,
+  "created_at": "2026-11-22T17:25:10.598317Z",
+  "updated_at": "2026-11-22T17:25:10.598317Z",
+  "lead_time": 5.887
+},
+{
+  "text": "\"Fake knowledge deba band kara, boka kahika\"",
+  "id": 195,
+  "content_moderation": "Hate-Abusive",
+  "annotator": 1,
+  "annotation_id": 199,
+  "created_at": "2026-11-22T17:25:17.033502Z",
+  "updated_at": "2026-11-22T17:25:17.033502Z",
+  "lead_time": 5.753
+}
+]
